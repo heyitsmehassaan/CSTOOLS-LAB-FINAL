@@ -1,0 +1,3 @@
+install python 
+intall docker 
+install flask

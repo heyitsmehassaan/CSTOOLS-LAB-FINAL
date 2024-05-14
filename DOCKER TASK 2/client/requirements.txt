@@ -1,0 +1,2 @@
+clint needs to install flask
+ sudo docker install
